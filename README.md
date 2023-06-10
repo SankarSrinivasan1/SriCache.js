@@ -52,6 +52,9 @@ You can include `SriCache.js` in your project by adding the following script tag
 
 <script src="https://cdn.jsdelivr.net/gh/SankarSrinivasan1/SriCache.js@main/SriCache.js"></script>
 ```
+By providing the specific URL for the `SriCache.js` file hosted on the jsDelivr CDN, users can directly include the library in their projects without having to download or host the file themselves.
+
+
 
 ## Usage
 
