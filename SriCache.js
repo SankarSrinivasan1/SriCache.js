@@ -1,3 +1,7 @@
+// SriCache.js is a JavaScript library that provides client-side caching and storage capabilities with additional features such as size limit, LRU eviction, and JSON serialization.
+// It allows you to easily store and retrieve data in the client's browser, providing efficient and flexible caching functionality.
+// Contact Sankar Srinivasan at petra.srini@gmail.com 
+
 class SriCache {
 
   constructor(maxSize = Infinity) {
