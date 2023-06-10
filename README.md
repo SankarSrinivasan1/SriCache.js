@@ -24,7 +24,7 @@ You can include `SriCache.js` in your project by downloading the script and incl
 
 ```html
 
-<script src="path/to/sricache.js"></script>
+<script src="path/folder/sricache.js"></script>
 
 ```
 
