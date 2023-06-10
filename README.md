@@ -44,13 +44,14 @@ import SriCache from 'sricache';
 
 ```
 
-## Installation
+## CDN
 
 You can include `SriCache.js` in your project by adding the following script tag to your HTML file:
 
 ```html
 
 <script src="https://cdn.jsdelivr.net/gh/SankarSrinivasan1/SriCache.js@main/SriCache.js"></script>
+```
 
 ## Usage
 
